@@ -1,0 +1,4 @@
+E:/VSCodeProject/QT_Vscode/build/CMakeFiles/senkuro.dir
+E:/VSCodeProject/QT_Vscode/build/CMakeFiles/edit_cache.dir
+E:/VSCodeProject/QT_Vscode/build/CMakeFiles/rebuild_cache.dir
+E:/VSCodeProject/QT_Vscode/build/CMakeFiles/senkuro_autogen.dir

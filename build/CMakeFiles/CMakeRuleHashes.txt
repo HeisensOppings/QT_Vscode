@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+f0f8cb3becd43919256ed6cb7515025a CMakeFiles/senkuro_autogen
